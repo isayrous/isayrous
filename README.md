@@ -17,6 +17,10 @@ This is the space where I spend most of my time where, imagination and creativit
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayrous&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isayrous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
