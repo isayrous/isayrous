@@ -25,6 +25,6 @@ This is the space where I spend most of my time where, imagination and creativit
 ### Connect with me:
 
 <br>
-<a href="https://www.instagram.com/limaodilo/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-13.png" width="22px" /></a> 
+<a href="https://www.instagram.com/odilolalmeida/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-13.png" width="22px" /></a> 
 <a href="https://www.linkedin.com/in/odilo-almeida-7538a4236/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width ="22px" /></a>
 <br>
