@@ -7,7 +7,7 @@ This is the space where I spend most of my time where, imagination and creativit
 
 - 💬 Ask me about anything <a href="https://www.linkedin.com/in/odilo-almeida-7538a4236/">here</a>;
 
-- 📫 How to reach me: <a href="https://www.instagram.com/odilolalmeida/</a>;
+- 📫 How to reach me: <a href="https://www.instagram.com/odilolalmeida/"</a>;
 <br>
 
 ### Languages an Tools:
